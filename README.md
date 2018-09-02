@@ -1,6 +1,6 @@
 # PGP Redux State Channel
 
-| This is experimental.
+> This is experimental.
 
 [![Build Status](https://travis-ci.org/transmute-industries/pgp-redux-state-channel.svg?branch=master)](https://travis-ci.org/transmute-industries/pgp-redux-state-channel)
 
